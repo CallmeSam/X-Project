@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 900,
+      "height": 1600,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "layer": [
+    {
+      "name": "LABEL",
+      "value": 1
+    }
+  ]
+}
